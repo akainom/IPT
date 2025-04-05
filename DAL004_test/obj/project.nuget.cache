@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZHGObwx2mI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\DAL004_test\\DAL004_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kavop\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

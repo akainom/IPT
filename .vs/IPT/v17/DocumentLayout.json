@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{314B4AA8-2E5F-4DAB-9A5B-5DEDF5F766CC}|DAL003\\DAL003.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal003\\dal003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{314B4AA8-2E5F-4DAB-9A5B-5DEDF5F766CC}|DAL003\\DAL003.csproj|solutionrelative:dal003\\dal003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301DFE0C-A6CE-42EA-AE77-E23B9E3DD4A2}|ASPA004_3\\ASPA004_3.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301DFE0C-A6CE-42EA-AE77-E23B9E3DD4A2}|ASPA004_3\\ASPA004_3.csproj|solutionrelative:aspa004_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9433F9E-250A-4902-9832-10F54F68DF9C}|ASPA004_2\\ASPA004_2.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9433F9E-250A-4902-9832-10F54F68DF9C}|ASPA004_2\\ASPA004_2.csproj|solutionrelative:aspa004_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C86AF5-F99F-4E99-8F91-90F8290FD39F}|DAL004\\DAL004.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal004\\dal004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C86AF5-F99F-4E99-8F91-90F8290FD39F}|DAL004\\DAL004.csproj|solutionrelative:dal004\\dal004.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C62A7F3-2EB6-483B-9BE2-B8B44FDD217D}|ASPA004\\ASPA_004.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\aspa004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C62A7F3-2EB6-483B-9BE2-B8B44FDD217D}|ASPA004\\ASPA_004.csproj|solutionrelative:aspa004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A04F96-CA18-4315-947C-BBF2440EA25A}|DAL004_test\\DAL004_test.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal004_test\\dal004_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A04F96-CA18-4315-947C-BBF2440EA25A}|DAL004_test\\DAL004_test.csproj|solutionrelative:dal004_test\\dal004_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|solutionrelative:lab2_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL004_test\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{838A50EA-AD58-415A-A1EB-5B8DACB7629B}|DAL003_test\\DAL003_test.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal003_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{838A50EA-AD58-415A-A1EB-5B8DACB7629B}|DAL003_test\\DAL003_test.csproj|solutionrelative:dal003_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39684F54-296A-4A59-B0E0-73E66F786582}|lab02_3\\lab02_3.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab02_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39684F54-296A-4A59-B0E0-73E66F786582}|lab02_3\\lab02_3.csproj|solutionrelative:lab02_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8299274-5A49-4813-AA93-E61D218023AA}|ASPA_003\\ASPA_003.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\aspa_003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8299274-5A49-4813-AA93-E61D218023AA}|ASPA_003\\ASPA_003.csproj|solutionrelative:aspa_003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A04F96-CA18-4315-947C-BBF2440EA25A}|DAL004_test\\DAL004_test.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal004_test\\dal004_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6A04F96-CA18-4315-947C-BBF2440EA25A}|DAL004_test\\DAL004_test.csproj|solutionrelative:dal004_test\\dal004_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{314B4AA8-2E5F-4DAB-9A5B-5DEDF5F766CC}|DAL003\\DAL003.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\dal003\\dal003.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{314B4AA8-2E5F-4DAB-9A5B-5DEDF5F766CC}|DAL003\\DAL003.csproj|solutionrelative:dal003\\dal003.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab2_2\\lab02_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|solutionrelative:lab2_2\\lab02_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|solutionrelative:lab02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab01\\lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|solutionrelative:lab01\\lab01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab2_2\\lab02_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|solutionrelative:lab2_2\\lab02_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab2_2\\wwwroot\\neuman.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9D8CC4F9-BE13-4E68-B543-C4E9A2F1946C}|lab2_2\\lab02_2.csproj|solutionrelative:lab2_2\\wwwroot\\neuman.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|solutionrelative:lab01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab02\\src\\calc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|solutionrelative:lab02\\src\\calc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab02\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB333B86-0D0D-4D36-92D8-6D0508706829}|lab02\\lab02.csproj|solutionrelative:lab02\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|solutionrelative:lab01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt\\lab01\\lab01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D599A40B-8DA5-473A-943E-33A5C19F550F}|lab01\\lab01.csproj|solutionrelative:lab01\\lab01.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004_3\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_3\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004_3\\Program.cs",
+              "RelativeToolTip": "ASPA004_3\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:52:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DAL004.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004\\DAL004.cs",
+              "RelativeDocumentMoniker": "DAL004\\DAL004.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004\\DAL004.cs",
+              "RelativeToolTip": "DAL004\\DAL004.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:53:33.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL003.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003\\DAL003.cs",
+              "RelativeDocumentMoniker": "DAL003\\DAL003.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003\\DAL003.cs",
+              "RelativeToolTip": "DAL003\\DAL003.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:04:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA_003\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA_003\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA_003\\Program.cs",
+              "RelativeToolTip": "ASPA_003\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:12:48.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL003.csproj",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003\\DAL003.csproj",
+              "RelativeDocumentMoniker": "DAL003\\DAL003.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003\\DAL003.csproj",
+              "RelativeToolTip": "DAL003\\DAL003.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-07T15:27:51.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02_3\\Program.cs",
+              "RelativeDocumentMoniker": "lab02_3\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02_3\\Program.cs",
+              "RelativeToolTip": "lab02_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:18:30.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\Program.cs",
+              "RelativeToolTip": "lab2_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:10:59.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL004_test.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\DAL004_test.cs",
+              "RelativeDocumentMoniker": "DAL004_test\\DAL004_test.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\DAL004_test.cs",
+              "RelativeToolTip": "DAL004_test\\DAL004_test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T15:17:54.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004\\Program.cs",
+              "RelativeToolTip": "ASPA004\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:10:53.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004_2\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA004_2\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\ASPA004_2\\Program.cs",
+              "RelativeToolTip": "ASPA004_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T17:34:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "DAL004_test\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\SQLQuery1.sql",
+              "RelativeToolTip": "DAL004_test\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T17:06:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DAL004_test.csproj",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\DAL004_test.csproj",
+              "RelativeDocumentMoniker": "DAL004_test\\DAL004_test.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL004_test\\DAL004_test.csproj",
+              "RelativeToolTip": "DAL004_test\\DAL004_test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T15:18:59.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003_test\\Program.cs",
+              "RelativeDocumentMoniker": "DAL003_test\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\DAL003_test\\Program.cs",
+              "RelativeToolTip": "DAL003_test\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:37:15.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lab02_2.csproj",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\lab02_2.csproj",
+              "RelativeDocumentMoniker": "lab2_2\\lab02_2.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\lab02_2.csproj",
+              "RelativeToolTip": "lab2_2\\lab02_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T16:14:56.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lab02_2",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\lab02_2.csproj",
+              "RelativeDocumentMoniker": "lab2_2\\lab02_2.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\lab02_2.csproj",
+              "RelativeToolTip": "lab2_2\\lab02_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T15:56:29.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "neuman.html",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\neuman.html",
+              "RelativeDocumentMoniker": "lab2_2\\wwwroot\\neuman.html",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\neuman.html",
+              "RelativeToolTip": "lab2_2\\wwwroot\\neuman.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T16:13:08.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calc.js",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\src\\Calc.js",
+              "RelativeDocumentMoniker": "lab02\\src\\Calc.js",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\src\\Calc.js",
+              "RelativeToolTip": "lab02\\src\\Calc.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-21T15:59:55.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\index.html",
+              "RelativeDocumentMoniker": "lab02\\index.html",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\index.html",
+              "RelativeToolTip": "lab02\\index.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-21T15:13:20.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\Program.cs",
+              "RelativeDocumentMoniker": "lab02\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab02\\Program.cs",
+              "RelativeToolTip": "lab02\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:06:44.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lab01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lab01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T15:11:43.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lab01.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\lab01.cs",
+              "RelativeDocumentMoniker": "lab01\\lab01.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\lab01.cs",
+              "RelativeToolTip": "lab01\\lab01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T14:45:07.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "lab01",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\lab01.csproj",
+              "RelativeDocumentMoniker": "lab01\\lab01.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\lab01.csproj",
+              "RelativeToolTip": "lab01\\lab01.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T15:11:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\appsettings.json",
+              "RelativeDocumentMoniker": "lab01\\appsettings.json",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT\\lab01\\appsettings.json",
+              "RelativeToolTip": "lab01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T15:10:05.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

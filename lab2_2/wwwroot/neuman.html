@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ASPA002_2</title>
+    <script src="Calc.js"></script>
+    <style>
+        .image {
+            width: 100%;
+            height: 600px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Calc</h1>
+    <p id="sum">Sum (7, 3) = </p>
+    <p id="sub">Sub (7, 3) = </p>
+    <p id="mul">Mul (7, 3) = </p>
+    <p id="div">Div (7, 3) = </p>
+
+    <script>
+        var Sum = document.getElementById("sum");
+        var Sub = document.getElementById("sub");
+        var Mul = document.getElementById("mul");
+        var Div = document.getElementById("div");
+
+        Sum.textContent += sum(7, 3);
+        Sub.textContent += sub(7, 3);
+        Mul.textContent += mul(7, 3);
+        Div.textContent += div(7, 3);
+    </script>
+    <img class="image" src="/Picture/neuman.jpg" />
+</body>
+</html>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "neuman.html",
+      "AssetFile": "neuman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 15:57:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="
+        }
+      ]
+    },
+    {
+      "Route": "neuman.ib5wcszlge.html",
+      "AssetFile": "neuman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 15:57:41 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ib5wcszlge"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="
+        },
+        {
+          "Name": "label",
+          "Value": "neuman.html"
+        }
+      ]
+    }
+  ]
+}

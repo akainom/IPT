@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "aar7MBVg8SJxm9LdbVedi7/tL1bTl8ORMLKyZgITHZ8=",
+  "Source": "lab02_2",
+  "BasePath": "_content/lab02_2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab02_2\\wwwroot",
+      "Source": "lab02_2",
+      "ContentRoot": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\",
+      "BasePath": "_content/lab02_2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\neuman.html",
+      "SourceId": "lab02_2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\",
+      "BasePath": "_content/lab02_2",
+      "RelativePath": "neuman#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ib5wcszlge",
+      "Integrity": "7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\neuman.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "neuman.html",
+      "AssetFile": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\neuman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 15:57:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="
+        }
+      ]
+    },
+    {
+      "Route": "neuman.ib5wcszlge.html",
+      "AssetFile": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT\\lab2_2\\wwwroot\\neuman.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "881"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 28 Feb 2025 15:57:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ib5wcszlge"
+        },
+        {
+          "Name": "label",
+          "Value": "neuman.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="
+        }
+      ]
+    }
+  ]
+}

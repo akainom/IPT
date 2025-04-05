@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/lab2_2/neuman.fc3jt5orxa.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\neuman.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fc3jt5orxa"},{"Name":"integrity","Value":"sha256-UbdiPY/iYoLcD524HE\u002BWs1v4dfpqW/lpEzmf0zieEVw="},{"Name":"label","Value":"_content/lab2_2/neuman.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"870"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022UbdiPY/iYoLcD524HE\u002BWs1v4dfpqW/lpEzmf0zieEVw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 16:15:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/lab2_2/neuman.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\neuman.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UbdiPY/iYoLcD524HE\u002BWs1v4dfpqW/lpEzmf0zieEVw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"870"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022UbdiPY/iYoLcD524HE\u002BWs1v4dfpqW/lpEzmf0zieEVw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 21 Feb 2025 16:15:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

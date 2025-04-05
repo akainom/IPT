@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/lab02_2/neuman.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\neuman.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"881"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00227s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:57:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/lab02_2/neuman.ib5wcszlge.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\neuman.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ib5wcszlge"},{"Name":"integrity","Value":"sha256-7s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY="},{"Name":"label","Value":"_content/lab02_2/neuman.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"881"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u00227s6GBx2Z4XM/Bq2YEmi3QdoFaVp/VgBenGa16jhGvIY=\u0022"},{"Name":"Last-Modified","Value":"Fri, 28 Feb 2025 15:57:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

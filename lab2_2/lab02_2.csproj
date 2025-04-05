@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Calc.js" />
+    <Content Remove="wwwroot\neuman.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Calc.js" />
+    <None Include="wwwroot\neuman.html" />
+  </ItemGroup>
+
+</Project>
