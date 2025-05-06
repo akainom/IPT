@@ -1,0 +1,25 @@
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.deps.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.AssemblyReference.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfoInputs.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfo.cs
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.CoreCompileInputs.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.sourcelink.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\refint\DAL_Celebrity.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab6\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\ref\DAL_Celebrity.dll
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.deps.json
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.dll
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\bin\Debug\net8.0\DAL_Celebrity.pdb
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.AssemblyReference.cache
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfoInputs.cache
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.AssemblyInfo.cs
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.csproj.CoreCompileInputs.cache
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.dll
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\refint\DAL_Celebrity.dll
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\DAL_Celebrity.pdb
+D:\Downloads\DAL_Celebrity\DAL_Celebrity\obj\Debug\net8.0\ref\DAL_Celebrity.dll

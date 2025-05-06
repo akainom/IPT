@@ -1,0 +1,57 @@
+﻿###
+@hp =http://localhost:5079
+@capi = /api/Celebrities
+### все селебрити
+GET {{hp}}{{capi}}
+###по айди
+GET {{hp}}{{capi}}/7
+### по айди события
+GET {{hp}}{{capi}}/Lifeevents/7
+###удалить по айди
+DELETE {{hp}}{{capi}}/4
+###тест удаления
+DELETE {{hp}}{{capi}}/4
+###
+###
+POST {{hp}}{{capi}}
+Content-Type:application/json
+{
+  "fullname": "Ершов Андрей",
+  "nationality": "RU",
+  "reqPhotoPath": "Ershov.jpg"
+}
+###
+PUT {{hp}}{{capi}}/13
+Content-Type:application/json
+{
+  "fullname": "Ершов Андрей Петрович",
+  "nationality": "RU",
+  "reqPhotoPath": "Ershov.jpg"
+}
+###
+GET {{hp}}{{capi}}/photo/Ershov.jpg
+
+###
+@lapi = /api/Lifeevents
+###
+
+GET {{hp}}{{lapi}}
+###
+GET {{hp}}{{lapi}}/Celebrities/3
+###
+DELETE {{hp}}{{lapi}}/10
+###
+DELETE {{hp}}{{lapi}}/10
+
+###
+POST {{hp}}{{lapi}}
+Content-Type:application/json
+{
+  "celebrityId":13,
+  "date": "1931-04-19T00:00:00",
+  "description":"Дата рождения",
+  "reqPhotoPath":null
+}
+###
+
+

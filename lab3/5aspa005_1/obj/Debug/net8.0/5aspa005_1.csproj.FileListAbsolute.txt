@@ -1,0 +1,73 @@
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\appsettings.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\celebrities\Celebrities.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.exe
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.deps.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.runtimeconfig.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\3dAL003.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\DAL004.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\DAL004.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\3dAL003.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.AssemblyReference.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.AssemblyInfoInputs.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.AssemblyInfo.cs
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.CoreCompileInputs.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.sourcelink.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.5aspa005_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.build.5aspa005_1.props
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.5aspa005_1.props
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.5aspa005_1.props
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\scopedcss\bundle\5aspa005_1.styles.css
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.Up2Date
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\refint\5aspa005_1.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.pdb
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.genruntimeconfig.cache
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\obj\Debug\net8.0\ref\5aspa005_1.dll
+C:\Users\леха\Desktop\2 курс\4sem\лабы\смелов\lab3\5aspa005_1\bin\Debug\net8.0\Celebrities.json
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.dll
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\refint\5aspa005_1.dll
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.pdb
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\appsettings.Development.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\appsettings.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\Celebrities.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\celebrities\Celebrities.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.staticwebassets.endpoints.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.exe
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.deps.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.runtimeconfig.json
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.dll
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\5aspa005_1.pdb
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\DAL003.dll
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\DAL004.dll
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\DAL004.pdb
+D:\Downloads\lab3\5aspa005_1\bin\Debug\net8.0\DAL003.pdb
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.AssemblyReference.cache
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.AssemblyInfoInputs.cache
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.AssemblyInfo.cs
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.CoreCompileInputs.cache
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\scopedcss\bundle\5aspa005_1.styles.css
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.build.json
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.development.json
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.5aspa005_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.5aspa005_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.build.5aspa005_1.props
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.5aspa005_1.props
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.5aspa005_1.props
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.csproj.Up2Date
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\5aspa005_1.genruntimeconfig.cache
+D:\Downloads\lab3\5aspa005_1\obj\Debug\net8.0\ref\5aspa005_1.dll

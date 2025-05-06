@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\DAL_Celebrity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\appp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\appp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\app.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178D4B12-94EC-4C4F-A14C-CC438A92B29D}|DAL_Celebrity\\DAL_Celebrity.csproj|d:\\downloads\\dal_celebrity\\dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178D4B12-94EC-4C4F-A14C-CC438A92B29D}|DAL_Celebrity\\DAL_Celebrity.csproj|solutionrelative:dal_celebrity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A37B952B-495E-45A4-A987-CEFF665A7A15}|MSSQL_TEST\\MSSQL_TEST.csproj|d:\\downloads\\dal_celebrity\\mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A37B952B-495E-45A4-A987-CEFF665A7A15}|MSSQL_TEST\\MSSQL_TEST.csproj|solutionrelative:mssql_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B02AD0-488E-47E7-97D7-69A867C7AF78}|3DAL_Celebrity_MSSQL\\3DAL_Celebrity_MSSQL.csproj|d:\\downloads\\dal_celebrity\\3dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B02AD0-488E-47E7-97D7-69A867C7AF78}|3DAL_Celebrity_MSSQL\\3DAL_Celebrity_MSSQL.csproj|solutionrelative:3dal_celebrity_mssql\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|d:\\downloads\\dal_celebrity\\aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65FDC7D-25D6-4804-B03A-E3614F80B42B}|ASPA006_1\\ASPA006_1.csproj|solutionrelative:aspa006_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appp.http",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\appp.http",
+              "RelativeDocumentMoniker": "ASPA006_1\\appp.http",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\appp.http",
+              "RelativeToolTip": "ASPA006_1\\appp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-25T17:32:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.http",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\app.http",
+              "RelativeDocumentMoniker": "ASPA006_1\\app.http",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\app.http",
+              "RelativeToolTip": "ASPA006_1\\app.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-18T16:42:50.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\DAL_Celebrity\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL_Celebrity\\Class1.cs",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\DAL_Celebrity\\Class1.cs",
+              "RelativeToolTip": "DAL_Celebrity\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:39:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\MSSQL_TEST\\Program.cs",
+              "RelativeDocumentMoniker": "MSSQL_TEST\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\MSSQL_TEST\\Program.cs",
+              "RelativeToolTip": "MSSQL_TEST\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:30:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\index.html",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\wwwroot\\index.html",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T08:04:23.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\appsettings.json",
+              "RelativeDocumentMoniker": "ASPA006_1\\appsettings.json",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\appsettings.json",
+              "RelativeToolTip": "ASPA006_1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T19:04:51.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA006_1\\Program.cs",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\Program.cs",
+              "RelativeToolTip": "ASPA006_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T15:13:48.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Celebrities.config.json",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\Celebrities.config.json",
+              "RelativeDocumentMoniker": "ASPA006_1\\Celebrities.config.json",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\Celebrities.config.json",
+              "RelativeToolTip": "ASPA006_1\\Celebrities.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T16:42:33.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\wwwroot\\index.js",
+              "RelativeDocumentMoniker": "ASPA006_1\\wwwroot\\index.js",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\ASPA006_1\\wwwroot\\index.js",
+              "RelativeToolTip": "ASPA006_1\\wwwroot\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-18T08:11:41.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Downloads\\DAL_Celebrity\\3DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeDocumentMoniker": "3DAL_Celebrity_MSSQL\\Class1.cs",
+              "ToolTip": "D:\\Downloads\\DAL_Celebrity\\3DAL_Celebrity_MSSQL\\Class1.cs",
+              "RelativeToolTip": "3DAL_Celebrity_MSSQL\\Class1.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAuwHgBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T16:39:39.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

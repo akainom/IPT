@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQoQ/hJkMaM=",
+  "success": false,
+  "projectFilePath": "D:\\Downloads\\lab3\\4aspa004_3\\4aspa004_3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"D:\\Downloads\\lab3\\DAL004\\DAL004.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "D:\\Downloads\\lab3\\DAL004\\DAL004.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

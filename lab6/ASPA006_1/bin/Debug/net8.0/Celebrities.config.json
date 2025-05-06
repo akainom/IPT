@@ -1,0 +1,6 @@
+{
+  "Celebrities": {
+    "PhotosFolder": "D:\\Downloads\\DAL_Celebrity\\Photos\\",
+    "ConnectionString": "Data source = AKINOM\\SQLEXPRESS; Initial Catalog = Celebrities;TrustServerCertificate=Yes;Integrated Security=True;"
+  }
+}

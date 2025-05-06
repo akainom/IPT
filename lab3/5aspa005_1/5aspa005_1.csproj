@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_5aspa005_1</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\kavop\OneDrive\Документы\Belstu\IPT\IPT4sem\DAL004\DAL004.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="celebrities\" />
+  </ItemGroup>
+
+</Project>
