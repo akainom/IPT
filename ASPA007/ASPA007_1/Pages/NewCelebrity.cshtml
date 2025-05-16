@@ -1,0 +1,77 @@
+﻿@page
+@model ASPA007_1.Pages.NewCelebrityModel
+@using _3DAL_Celebrity_MSSQL;
+@{
+    bool Confirm = (bool)(ViewData["Confirm"] ?? false);
+    Celebrity celebrity = Model.celebrity ?? new Celebrity();
+}
+<h2>New Celebrity</h2>
+
+<div style="display:flex">
+    @if (Confirm)
+    {
+        <img id="0"
+             name="file"
+             title="New Celebrity"
+             src="@($"{Model.PhotosRequestPath}/{celebrity.ReqPhotoPath}")"
+             onload="onPhotoLoad(this,200,0)" />
+
+        <div style="height:300px; width:600px;background-color:antiquewhite;align-content:center">
+            <form method="post" enctype="multipart/form-data">
+                <input type="text" name="fullname" value="@celebrity.FullName" width="100%" readonly />
+                <input type="text" name="nationality" value="@celebrity.Nationality" maxlength="2" width="20%" readonly />
+                <input type="hidden" readonly value="@celebrity.ReqPhotoPath" />
+                <button name="buttonpressed" type="submit" value="Confirm" style="width:100%">подтвердить</button>
+                <button name="buttonpressed" type="submit" value="Cancel" style="width:100%">отмена</button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <img id="0"
+             style="border:solid 2px #c59d67;"
+             title="New Celderity"
+             src="@($"{Model.PhotosFolder}/NewCelebrity.jpg")"
+             onload="onPhotoLoad(this, 200, 0)" />
+
+        <div style="height:500px; width:700px; background-color:antiquewhite; align-content:center;">
+            <form method="post" enctype="multipart/form-data">
+                <input id="fullname" name="fullname" type="text" placeholder="Celebrities Name" style="align-content:center; width:100%," required />
+
+                <input id="nationality" name="nationality" type="text" placeholder="Nationality" minlength="2" maxlength="2" style="width:30%;" required />
+
+                <input id="upload" name="file" type="file" style="display:none;" accept="image/jpeg" onchange="onChange(this)" required />
+
+                <button id="actuaload" type="button" style="width:100%" onclick="document.getElementById('upload').click()">
+                    загрузить фото
+                </button>
+
+                <button type="submit" style="width:49%">
+                    ок
+                </button>
+                <button name="buttonpressed" formnovalidate type="submit" style="width:49%" value="ToMainPage">
+                    отмена
+                </button>
+            </form>
+        </div>
+    }
+</div>
+<script>
+    function onPhotoLoad(e, h, w) {
+        let ratio = e.naturalWidth / e.naturalHeight;
+
+        if (h != 0 && w == 0) {
+            e.width = Math.round(ratio * h);
+        }
+        if (h == 0 && w != 0) {
+            e.height = Math.round(w / ratio);
+        }
+    }
+    document.getElementById('upload').addEventListener('change', function (e) {
+        const button = document.getElementById('actuaload');
+        const fileName = e.target.files[0]?.name || 'Upload Photo';
+        button.textContent = fileName;
+
+
+    });
+</script>

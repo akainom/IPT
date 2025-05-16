@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\celebrities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrities.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\_celebritieslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_celebritieslayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\newcelebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\newcelebrity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\celebritymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebritymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\newcelebritymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\newcelebritymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\celebrity1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebrity1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\anc25_webapi_dll\\celebrityapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|solutionrelative:anc25_webapi_dll\\celebrityapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\celebritiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\celebritiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\celebrities.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\anc25_webapi_dll\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|solutionrelative:anc25_webapi_dll\\celebritiesconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\pages\\_celebritieslayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\pages\\_celebritieslayout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\anc25_webapi_dll\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59B070C-3769-4E46-98B7-4CDAA7613649}|ANC25_WEBAPI_DLL\\ANC25_WEBAPI_DLL.csproj|solutionrelative:anc25_webapi_dll\\middlewareerrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|c:\\users\\kavop\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\belstu\\ipt\\ipt4sem\\aspa007\\aspa007_1\\aspa007_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53D0293E-217F-47F0-A7E3-53668042FBDD}|ASPA007_1\\ASPA007_1.csproj|solutionrelative:aspa007_1\\aspa007_1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewCelebrityModel.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\NewCelebrityModel.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\NewCelebrityModel.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\NewCelebrityModel.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\NewCelebrityModel.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:44:34.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewCelebrity.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\NewCelebrity.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T15:45:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Celebrities.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\Celebrities.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrities.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\Celebrities.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrities.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T15:22:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CelebrityAPI.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\CelebrityAPI.cs",
+              "RelativeDocumentMoniker": "ANC25_WEBAPI_DLL\\CelebrityAPI.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\CelebrityAPI.cs",
+              "RelativeToolTip": "ANC25_WEBAPI_DLL\\CelebrityAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:13:11.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Program.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Program.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Program.cs",
+              "RelativeToolTip": "ASPA007_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T19:32:04.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Celebrity1.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\Celebrity1.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\Celebrity1.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\Celebrity1.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\Celebrity1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T15:44:15.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CelebrityModel.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\CelebrityModel.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\CelebrityModel.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\CelebrityModel.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\CelebrityModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:39:11.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_CelebritiesLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_CelebritiesLayout.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_CelebritiesLayout.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_CelebritiesLayout.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_CelebritiesLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T17:00:55.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T17:03:25.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-16T17:03:21.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Celebrities.config.json",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Celebrities.config.json",
+              "RelativeDocumentMoniker": "ASPA007_1\\Celebrities.config.json",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Celebrities.config.json",
+              "RelativeToolTip": "ASPA007_1\\Celebrities.config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T00:12:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CelebritiesModel.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\CelebritiesModel.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\CelebritiesModel.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\CelebritiesModel.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\CelebritiesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:38:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_CelebritiesLayout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_CelebritiesLayout.cshtml.cs",
+              "RelativeDocumentMoniker": "ASPA007_1\\Pages\\_CelebritiesLayout.cshtml.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\Pages\\_CelebritiesLayout.cshtml.cs",
+              "RelativeToolTip": "ASPA007_1\\Pages\\_CelebritiesLayout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T15:46:28.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CelebritiesConfig.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\CelebritiesConfig.cs",
+              "RelativeDocumentMoniker": "ANC25_WEBAPI_DLL\\CelebritiesConfig.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\CelebritiesConfig.cs",
+              "RelativeToolTip": "ANC25_WEBAPI_DLL\\CelebritiesConfig.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T21:52:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ASPA007_1",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\ASPA007_1.csproj",
+              "RelativeDocumentMoniker": "ASPA007_1\\ASPA007_1.csproj",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\ASPA007_1.csproj",
+              "RelativeToolTip": "ASPA007_1\\ASPA007_1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T00:54:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MiddlewareErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\MiddlewareErrorHandler.cs",
+              "RelativeDocumentMoniker": "ANC25_WEBAPI_DLL\\MiddlewareErrorHandler.cs",
+              "ToolTip": "C:\\Users\\kavop\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Belstu\\IPT\\IPT4sem\\ASPA007\\ANC25_WEBAPI_DLL\\MiddlewareErrorHandler.cs",
+              "RelativeToolTip": "ANC25_WEBAPI_DLL\\MiddlewareErrorHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:28:23.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Celebrities</title>
+    
+</head>
+<body>
+    <div style="max-width: 800px; margin: auto;">
+        @RenderSection("subhead", required: false)
+        <div>@RenderBody()</div>
+        @RenderSection("foot", required: false)
+    </div>
+
+    <script>
+        function onPhotoLoad(e, h, w) {
+            let k = e.naturalWidth / e.naturalHeight;
+            if (h != 0 && w == 0) e.width = k * h;
+            if (h == 0 && w != 0) e.height = w / k;
+        }
+    </script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

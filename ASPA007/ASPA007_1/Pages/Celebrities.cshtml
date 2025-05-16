@@ -1,0 +1,31 @@
+﻿@page
+@model APP_007_1.Pages.CelebritiesModel
+@using _3DAL_Celebrity_MSSQL;
+@{
+    Layout = "_CelebritiesLayout";
+    int h = 150;
+    string apipath = "/api/Lifeevents/Celebrities/";
+}
+
+@section subhead {
+    <h2>Celebrities</h2>
+}
+
+<img id="0"
+     src="@Model.PhotoRequestPath/NewCelebrity.jpg"
+     onload="onPhotoLoad(this, @h, 0)"
+     onclick="location.href='/NewCelebrity'" />
+
+
+@foreach (var c in Model.Celebrities)
+{
+    <img id="@c.Id"
+         src="@Model.PhotoRequestPath/@c.ReqPhotoPath"
+         onload="onPhotoLoad(this, @h, 0)"
+         onclick="location.href='/@c.Id'" />
+}
+
+@section foot {
+    <hr />
+    <table><tbody id="Lifeevents"></tbody></table>
+}

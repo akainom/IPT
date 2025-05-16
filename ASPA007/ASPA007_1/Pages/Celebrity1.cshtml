@@ -1,0 +1,17 @@
+﻿@page "/{id:int}"
+@using _3DAL_Celebrity_MSSQL;
+@model ASPA007_1.Pages.CelebrityModel
+@{
+    Layout = "_CelebritiesLayout";
+    int h = 200;
+    var celebrity = Model.Celebrity ?? new Celebrity { FullName = "Unknown" };
+    string photopath = $"{Model.PhotoRequestPath}/{celebrity.ReqPhotoPath}";
+}
+
+@section subhead {
+    <h2>@celebrity.FullName</h2>
+}
+
+<img id="@celebrity.Id"
+     src="@photopath"
+     onload="onPhotoLoad(this, @h, 0)" />

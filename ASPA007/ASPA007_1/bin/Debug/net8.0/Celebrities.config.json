@@ -1,0 +1,8 @@
+﻿{
+  // Celebrities.config.json
+  "Celebrities": {
+    "PhotosRequestPath": "C:\\Users\\kavop\\OneDrive\\Документы\\Belstu\\IPT\\IPT4sem\\ASPA007\\ASPA007_1\\wwwroot\\Photos",
+    "PhotosFolder": "\\Photos\\",
+    "ConnectionString": "Data source = AKINOM\\SQLEXPRESS; Initial Catalog = Celebrities;TrustServerCertificate=Yes;Integrated Security=True;"
+  }
+}
